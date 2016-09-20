@@ -11,8 +11,11 @@ Maybe you still want to write tests?
 2. Update .zshrc file (in the ~ folder again, open in Sublime and copy these lines into it).
 
    export JUNIT_HOME="$HOME/junit"
+   
    export PATH="$PATH:$JUNIT_HOME"
+   
    export CLASSPATH="$CLASSPATH:$JUNIT_HOME/junit-4.12.jar:$JUNIT_HOME/hamcrest-core-1.3.jar"
+   
    alias junit="java org.junit.runner.JUnitCore $1"
 
 3. If it's working, you will be able to type 'junit' in the terminal
