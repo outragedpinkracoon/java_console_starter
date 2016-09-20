@@ -4,6 +4,8 @@ Maybe you want to play with Java and you don't want to use Eclipse?
 Maybe Java can actually not be such a pain when we just use Sublime?
 Maybe you still want to write tests?
 
+Prerequisites: Ruby and Java
+
 1. INSTALL junit and hacrest-core https://github.com/junit-team/junit4/wiki/Download-and-Install
 
    Download the two .jar files. Make a new directory in the user root folder (~ when you open terminal) called 'junit' and put these two files into it.
@@ -19,4 +21,4 @@ Maybe you still want to write tests?
    alias junit="java org.junit.runner.JUnitCore $1"
 
 3. If it's working, you will be able to type 'junit' in the terminal
-
+4. You can run the build.rb and run_tests.rb with the ruby command
