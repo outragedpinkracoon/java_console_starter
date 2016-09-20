@@ -4,7 +4,7 @@ Maybe you want to play with Java and you don't want to use Eclipse?
 Maybe Java can actually not be such a pain when we just use Sublime?
 Maybe you still want to write tests?
 
-Prerequisites: Ruby and Java
+Prerequisites: Ruby, Java, Sublime (or equivalent)
 
 1. INSTALL junit and hacrest-core https://github.com/junit-team/junit4/wiki/Download-and-Install
 
