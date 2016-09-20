@@ -7,6 +7,8 @@ Maybe you still want to write tests?
 1. INSTALL junit and hacrest-core https://github.com/junit-team/junit4/wiki/Download-and-Install
 
 Download the two .jar files. Make a new directory in the user root folder (~ when you open terminal) called 'junit' and put these two files into it.
+
+
 2. Update .zshrc file (in the ~ folder again, open in Sublime and copy these lines into it).
 
 export JUNIT_HOME="$HOME/junit"
